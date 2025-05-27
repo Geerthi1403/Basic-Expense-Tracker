@@ -1,0 +1,9 @@
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe.config
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csprojResolveAssemblyReference.cache
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Form1.resources
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic_Expense_Tracker.Properties.Resources.resources
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.csproj.GenerateResource.Cache
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\bin\Debug\Basic Expense Tracker.pdb
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 2\Basic Expense Tracker\Basic Expense Tracker\obj\Debug\Basic Expense Tracker.pdb
